@@ -1,5 +1,4 @@
-# Vibe-coding
-# Gesture Drawing System
+# Gesture controlled Drawing System
 
 Turn your hand into a pen.
 No mouse. No touch. Just vibes.
